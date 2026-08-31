@@ -28,3 +28,5 @@ const Anıl = {
     currentFocus: "I'm diving into advanced AI system architectures, TypeScript, and exploring the potential of GraphQL to enhance my development toolkit.",
     funFact: "I once built a fully functional arcade machine from scratch—complete with classic games! Let's talk about your favorite retro games."
 };
+```
+![Terminal Demo](https://waveify.onrender.com/api/terminal?commands=docker+build+-t+myapp+.%2Cdocker+run+-p+3000%3A3000+myapp%2Cecho+%22Container+running+on+port+3000%22&theme=modern&speed=70&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Docker+Build&githubMode=false)
