@@ -1,4 +1,4 @@
-### Hi there <img src="white-cat-waving.gif" width="auto"> I'm Anıl
+### Hi there <img src="wave.gif" width="auto"> I'm Anıl
 
 ```javascript
 const Anıl = {
