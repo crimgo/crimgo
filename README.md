@@ -1,5 +1,7 @@
 # Hi there <img src="wave.gif" width="32px"> I'm Anıl
 
+![Terminal Demo](https://waveify.onrender.com/api/terminal?commands=docker+build+-t+myapp+.%2Cdocker+run+-p+3000%3A3000+myapp%2Cecho+%22Container+running+on+port+3000%22&theme=modern&speed=70&cursor=true&prompt=%24+&width=480&height=300&fontSize=14&showHeader=true&title=Docker+Build&githubMode=false&accessibility=%5Bobject+Object%5D&borderRadius=8&windowStyle=windows)
+
 ```javascript
 const Anıl = {
     pronouns: "He" | "Him",
@@ -29,4 +31,3 @@ const Anıl = {
     funFact: "I once built a fully functional arcade machine from scratch—complete with classic games! Let's talk about your favorite retro games."
 };
 ```
-![Terminal Demo](https://waveify.onrender.com/api/terminal?commands=docker+build+-t+myapp+.%2Cdocker+run+-p+3000%3A3000+myapp%2Cecho+%22Container+running+on+port+3000%22&theme=modern&speed=70&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Docker+Build&githubMode=false)
