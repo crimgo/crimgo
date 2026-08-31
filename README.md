@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there 👋 I'm Anıl
 
-<!--
-**crimgo/crimgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Anıl = {
+    pronouns: "He" | "Him",
+    title: "Full Stack Senior Developer & AI Developer",
+    askMeAbout: ["I'm here to chat about full-stack development, AI architectures, API design, or best practices in web development."],
+    technologies: {
+        frontEnd: [
+            "React", "Vue", "Angular", "Svelte", "Alpine.js", "Next.js", "Nuxt.js", 
+            "HTML", "CSS", "SASS"
+        ],
+        backEnd: [
+            "JavaScript", "Node.js", "Python", "Django", "Laravel", "PHP", "NestJs", 
+            "TypeScript", "Go", "Java", "Ruby", "Rust", "C++", "C", "C#", "Swift", 
+            "Kotlin", "Dart", "Perl", "Lua", "Scala"
+        ],
+        aiAndAutomation: [
+            "n8n", "AI Development", "Custom LLM Integrations"
+        ],
+        databases: [
+            "SQL", "Supabase", "Firebase"
+        ],
+        toolsAndData: [
+            "Electron", "R", "Julia", "MATLAB"
+        ]
+    },
+    currentFocus: "I'm diving into advanced AI system architectures, TypeScript, and exploring the potential of GraphQL to enhance my development toolkit.",
+    funFact: "I once built a fully functional arcade machine from scratch—complete with classic games! Let's talk about your favorite retro games."
+};
